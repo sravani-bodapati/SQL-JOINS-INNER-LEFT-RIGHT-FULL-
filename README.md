@@ -1,6 +1,6 @@
 # SQL JOINS(INNER-LEFT-RIGHT-FULL)
 
-# SQL Joins – Customer & Orders 
+## SQL Joins – Customer & Orders 
 
 ## Overview
 
